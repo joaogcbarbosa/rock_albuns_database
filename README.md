@@ -1,12 +1,14 @@
 <h2>Rock Albuns Database:</h2>
+
 <p>Montei esse banco de dados sobre meus discos favoritos após ter finalizado um bootcamp
- que abordava arquitetura de dados, modelagem de dados e consultas em SQL com MySQL. 
- Resolvi modelar esse banco pois acredito que trabalhando com assuntos que temos afinidade
-  podemos ter mais facilidades com os estudos.</p>
+ que abordava arquitetura de dados, modelagem de dados e consultas em SQL com MySQL.</p>
+ 
+ <p>Resolvi modelar esse banco pois acredito que trabalhando com assuntos que temos afinidade
+ podemos ter mais facilidades com os estudos.</p>
 
 <h3>Queries:</h3>
 <p>Aqui vão algumas sugestões de consultas: </p>
-<p>*A querie para cada consulta está na pasta "rock_albuns_queries"*
+<p>*A query para cada consulta está na pasta "rock_albuns_queries"*
 
 1. Bandas brasileiras;
 2. Discos que têm 15 ou mais músicas;
