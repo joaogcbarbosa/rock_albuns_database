@@ -16,11 +16,10 @@
 4. Discos que tem o mesmo nome da banda e ano de lançamento dos mesmos;
 5. Banda que tem a música mais duradoura;
 6. Total de discos de cada banda;
-7. Total de discos de cada banda;
-8. Total de discos feitos por ano;
-9. Total de bandas de cada país;
-10. Banda que tem o hit mais longo;
-11. Quantos hits tem em cada disco;
-12. Definir condição para a duração das músicas (menor que 2min é Pequena, entre 2min e 5min é Média e maior que 5min é Longa);
-13. Número de bandas de Rock Progressivo;
-14. Duração de cada disco dos anos 70.
+7. Total de discos feitos por ano;
+8. Total de bandas de cada país;
+9. Banda que tem o hit mais longo;
+10. Quantos hits tem em cada disco;
+11. Definir condição para a duração das músicas (menor que 2min é Pequena, entre 2min e 5min é Média e maior que 5min é Longa);
+12. Número de bandas de Rock Progressivo;
+13. Duração de cada disco dos anos 70.
